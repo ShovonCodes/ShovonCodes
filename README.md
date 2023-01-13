@@ -6,7 +6,7 @@
 
 <br/>
 
-I'm a Electrical and Computer Engineer and is passionate about programming and software development. I am a Full-Stack web developer focusing on Python, JavaScript and AWS technologies. Currently I am working as a Software Development Engineer at <a href="https://www.craftsmenltd.com/">Craftsmen.</a>
+I'm a Electrical and Computer Engineer who also  happens to be passionate about programming and software development. I am a Full-Stack software developer focusing on JavaScript and AWS technologies. Currently I am working as a Software Development Engineer II at <a href="https://www.craftsmenltd.com/">Craftsmen.</a>
 
 <br/>
 
