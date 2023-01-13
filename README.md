@@ -1,12 +1,13 @@
 ## Hi, I'm Shovon 👋
 
-**SDE-I @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
+**SDE-II @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
 <br />
-**Full Stack Developer (Python, JavaScript, AWS)**
+**Full Stack Developer (JavaScript, TypeScript, NodeJs, ReactJs, AWS serverless)**
 
 <br/>
 
-I'm a Electrical and Computer Engineer who also  happens to be passionate about programming and software development. I am a Full-Stack software developer focusing on JavaScript and AWS technologies. Currently I am working as a Software Development Engineer II at <a href="https://www.craftsmenltd.com/">Craftsmen.</a>
+I'm a Electrical and Computer Engineer who also happens to be passionate about programming and software development. 
+Currently I am working as a Full-Stack software developer focusing on JavaScript and AWS technologies. Contributing to building world's fastest, collaborative, cloud-native video editing and publishing tool.
 
 <br/>
 
