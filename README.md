@@ -26,8 +26,8 @@ I'm an Electrical & Computer Engineer turned Full-Stack dev 🔌💻, passionate
 <br />
 
 <div align="center">
-  <img width="45%" height="175px" src="https://github-readme-stats.vercel.app/api?username=ShovonCodes&theme=radical&show_icons=true" />  
-  <img width="45%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonCodes&theme=radical&show_icons=true" />
+  <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=ShovonCodes&theme=radical&show_icons=true" />  
+  <img width="45%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonCodes&theme=radical&show_icons=true" />
 </div>
 
 <br />
