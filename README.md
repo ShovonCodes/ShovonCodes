@@ -1,4 +1,4 @@
-## Hi, I'm Shovon 👋
+<h2>Hi, I'm Shovon <img src="https://media.tenor.com/SQyDQ88pCroAAAAj/yay-pikachu.gif" width="90px"></h2> 
 
 **SDE-II @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
 <br />
