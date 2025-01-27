@@ -2,34 +2,23 @@
 
 **SDE-II @ <a href="https://craftsmenltd.com/">Craftsmen</a>**
 <br />
-**Full Stack Developer (JavaScript, TypeScript, NodeJs, ReactJs, AWS serverless)**
+**Full Stack Developer (Python, JavaScript, TypeScript, NodeJs, ReactJs, AWS serverless)**
 
-<br/>
-
-I'm a Electrical and Computer Engineer who also happens to be passionate about programming and software development. 
-Currently I am working as a Full-Stack software developer focusing on JavaScript and AWS technologies. Contributing to building world's fastest, collaborative, cloud-native video editing and publishing tool.
+I'm an Electrical & Computer Engineer turned Full-Stack dev 🔌💻, passionate about coding and creating cool stuff! Currently vibing with JavaScript, TypeScript, and AWS 🌐☁️, where I’m helping craft the world’s fastest ⚡, cloud-native 🌩️, and super collaborative 🤝 video editing & publishing tool. Let’s build and ship 🚀!
 
 <br/>
 
 **<h3>⚙ Tools & Technologies</h3>**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png"></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,aws,react,nodejs,express,redux,terraform,dynamodb,postgres,html,css,scss,bootstrap,materialui,git,githubactions,bash,linux,postman,sentry" />
+  </a>
+</p>
 
 <br />
 
-**<h3>🚖 Profile visitor: <img align="center" src="https://profile-counter.glitch.me/minul-vimond/count.svg" alt="Visitor Count" /></h3>**
+**<h3>🚖 Visitor count: <img align="center" src="https://profile-counter.glitch.me/ShovonCodes/count.svg" alt="Visitor Count" /></h3>**
 
 <br />
 
@@ -37,12 +26,8 @@ Currently I am working as a Full-Stack software developer focusing on JavaScript
 <br />
 
 <div align="center">
-  <a href="https://github.com/minul-vimond">
-    <img height="162px" src="https://github-readme-stats.vercel.app/api?username=minul-vimond&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24&theme=gotham" />
-  </a>
-  <a href="https://github.com/minul-vimond">
-    <img height="162px" src="https://github-readme-streak-stats.herokuapp.com/?user=minul-vimond&layout=compact&hide_border=true&theme=gotham" />
-  </a>
+  <img width="48%" height="175px" src="https://github-readme-stats.vercel.app/api?username=ShovonCodes&theme=radical&show_icons=true" />  
+  <img width="48%" height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonCodes&theme=radical&show_icons=true" />
 </div>
 
 <br />
@@ -57,10 +42,14 @@ Currently I am working as a Full-Stack software developer focusing on JavaScript
   <img alt="Facebook profile" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/facebook.png" />
 </a>
 &nbsp;&nbsp
-<a href="https://shovon588.github.io/" target="_blank">
+<a href="https://minulislam.xyz" target="_blank">
   <img alt="Portfolio" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/globe.png" />
 </a>
 &nbsp;&nbsp
-<a href="mailto:shovon@cuttingroom.com" target="_blank">
+<a href="mailto:mainulislam588@gmail.com" target="_blank">
   <img alt="Gmail" width="45px" src="https://raw.githubusercontent.com/shovon588/shovon588/master/assets/gmail.png" />
 </a>
+
+<br>
+
+
