@@ -202,24 +202,16 @@ const shovon = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShovonCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShovonCodes&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ShovonCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShovonCodes&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShovonCodes&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ShovonCodes&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShovonCodes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=1f6feb&point=58a6ff" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShovonCodes&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShovonCodes&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
