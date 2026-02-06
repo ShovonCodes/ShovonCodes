@@ -207,10 +207,6 @@ const shovon = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShovonCodes&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShovonCodes&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
@@ -223,7 +219,7 @@ const shovon = {
 [![Email](https://img.shields.io/badge/Email-mainulislam588%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainulislam588@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mainulislam588-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainulislam588/)
 [![GitHub](https://img.shields.io/badge/GitHub-ShovonCodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShovonCodes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-minulislam.xyz-000000?style=for-the-badge&logo=About.me&logoColor=white)]([[https://minulislam.xyz](https://shovoncodes.github.io)](https://shovoncodes.github.io))
+[![Portfolio](https://img.shields.io/badge/Portfolio-minulislam.xyz-000000?style=for-the-badge&logo=About.me&logoColor=white)]([[[https://minulislam.xyz](https://shovoncodes.github.io)](https://shovoncodes.github.io)](https://shovoncodes.github.io))
 
 📍 **Dhaka, Bangladesh** | 📞 **(+880) 1952885804**
 
