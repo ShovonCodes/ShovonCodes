@@ -219,7 +219,7 @@ const shovon = {
 [![Email](https://img.shields.io/badge/Email-mainulislam588%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainulislam588@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mainulislam588-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mainulislam588/)
 [![GitHub](https://img.shields.io/badge/GitHub-ShovonCodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShovonCodes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-minulislam.xyz-000000?style=for-the-badge&logo=About.me&logoColor=white)]([[[https://minulislam.xyz](https://shovoncodes.github.io)](https://shovoncodes.github.io)](https://shovoncodes.github.io))
+[![Portfolio](https://img.shields.io/badge/Portfolio-shovoncodes.github.io-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shovoncodes.github.io)
 
 📍 **Dhaka, Bangladesh** | 📞 **(+880) 1952885804**
 
