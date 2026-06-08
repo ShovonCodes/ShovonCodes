@@ -1,0 +1,39 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 18:00 UTC = 12:00 AM Dhaka (GMT+6)
+  workflow_dispatch:        # allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b  # v3
+        with:
+          # This automatically grabs the username of whoever owns the repository
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # PAT (classic) with read:user scope, owned by you, so private
+          # contributions are included in the contribution calendar.
+          GITHUB_TOKEN: ${{ secrets.SNAKE_GITHUB_TOKEN }}
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd  # v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

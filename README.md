@@ -45,49 +45,6 @@ const shovon = {
 
 ---
 
-## 🎯 Career Highlights
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge" /><br/>
-  <sub>System Reliability</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Scale-100K+-blue?style=for-the-badge" /><br/>
-  <sub>Monthly Requests</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/MTTR-↓40%25-orange?style=for-the-badge" /><br/>
-  <sub>Recovery Time</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Coverage-75%25-green?style=for-the-badge" /><br/>
-  <sub>Test Coverage</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Latency-↓30%25-red?style=for-the-badge" /><br/>
-  <sub>Performance Gain</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Cost-↓25%25-yellow?style=for-the-badge" /><br/>
-  <sub>AWS Savings</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Team-3-purple?style=for-the-badge" /><br/>
-  <sub>Engineers Mentored</sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/AI-Assisted-blueviolet?style=for-the-badge" /><br/>
-  <sub>Development</sub>
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -208,6 +165,14 @@ const shovon = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShovonCodes&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShovonCodes/ShovonCodes/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShovonCodes/ShovonCodes/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation of GitHub contribution graph" src="https://raw.githubusercontent.com/ShovonCodes/ShovonCodes/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
