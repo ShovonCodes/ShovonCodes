@@ -45,31 +45,7 @@ jobs:
           # Count private repos you own / collaborate on
           repositories_affiliations: owner, collaborator
 
-      - name: Generate habits & lines card (includes private repos)
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6  # v3.34
-        with:
-          token: ${{ secrets.SNAKE_GITHUB_TOKEN }}
-          user: ShovonCodes
-          filename: metrics.habits.svg
-          config_timezone: Asia/Dhaka
-
-          output_action: commit
-          committer_branch: metrics-output
-          committer_message: "chore: update habits metrics"
-
-          base: ""
-          # Coding habits: active hours/days + indepth language usage
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          # Lines of code changed, shown alongside habits
-          plugin_lines: yes
-          repositories_affiliations: owner, collaborator
-
-      - name: Generate isometric calendar card (includes private repos)
+      - name: Generate isometric calendar & lines card (includes private repos)
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6  # v3.34
         with:
           token: ${{ secrets.SNAKE_GITHUB_TOKEN }}
@@ -85,4 +61,6 @@ jobs:
           # 3D isometric contribution calendar, full year
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # Lines of code changed, shown below the calendar
+          plugin_lines: yes
           repositories_affiliations: owner, collaborator
