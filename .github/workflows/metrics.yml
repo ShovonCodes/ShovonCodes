@@ -24,11 +24,14 @@ jobs:
           # repository language bytes are counted.
           token: ${{ secrets.SNAKE_GITHUB_TOKEN }}
           user: ShovonCodes
-          filename: dist/metrics.languages.svg
+          filename: metrics.languages.svg
           config_timezone: Asia/Dhaka
 
-          # Don't commit anywhere itself — we push to a branch below
-          output_action: none
+          # Commit the SVG straight to a dedicated branch so master
+          # stays clean (mirrors the snake's `output` branch).
+          output_action: commit
+          committer_branch: metrics-output
+          committer_message: "chore: update language metrics"
 
           # Only the languages card, nothing else
           base: ""
@@ -40,11 +43,3 @@ jobs:
 
           # Count private repos you own / collaborate on
           repositories_affiliations: owner, collaborator
-
-      - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd  # v3.1.0
-        with:
-          target_branch: metrics-output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
