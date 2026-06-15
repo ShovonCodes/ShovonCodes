@@ -136,6 +136,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img width="800" src="https://raw.githubusercontent.com/ShovonCodes/ShovonCodes/metrics-output/metrics.languages.svg" alt="Most Used Languages (private repos included)"/>
+  <br/>
+  <br/>
   <img width="800" src="https://streak-stats.demolab.com?user=ShovonCodes&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak"/>
   <br/>
   <br/>
