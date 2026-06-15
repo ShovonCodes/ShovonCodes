@@ -142,9 +142,6 @@
   <img width="800" src="https://streak-stats.demolab.com?user=ShovonCodes&theme=tokyonight&hide_border=true&card_width=800" alt="GitHub Streak"/>
   <br/>
   <br/>
-  <img width="800" src="https://raw.githubusercontent.com/ShovonCodes/ShovonCodes/metrics-output/metrics.isocalendar.svg" alt="Isometric contribution calendar (private repos included)"/>
-  <br/>
-  <br/>
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=ShovonCodes&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&height=300" alt="Contribution Graph"/>
   <br/>
   <picture>
