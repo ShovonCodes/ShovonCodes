@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.02335780739816" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="369.02335780739816" y="0" width="38.01148931371642" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="407.0348471211146" y="0" width="29.27122804930396" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="436.3060751704185" y="0" width="15.709249120318558" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="452.01532429073706" y="0" width="7.9846757092629" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.0136636913531" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="369.0136636913531" y="0" width="38.02427299181262" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="407.03793668316575" y="0" width="29.269520600718312" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="436.30745728388405" y="0" width="15.7083327687686" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="452.0157900526527" y="0" width="7.984209947347354" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -72,7 +72,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>8.26%</div>
+                                <div>8.27%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -83,7 +83,7 @@
                                 Swift
                             </div>
                             <small>
-                                <div>3.42%</div>
+                                <div>3.41%</div>
                             </small>
                         </div>
                     </section>
